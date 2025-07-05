@@ -170,7 +170,8 @@ def reopen_menu():
   y_n = input("Would you like to do another operation? y/n?")
   if y_n == "y":
     open_menu()
-  print("Have a nice day")
+  else:
+    print("Have a nice day")
 
 
 
