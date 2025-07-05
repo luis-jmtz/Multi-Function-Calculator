@@ -91,7 +91,6 @@ def convert_percentage(user_input):
   frac = str(Fraction(temp))
   print(f"Fraction: {frac}")
 
-convert_percentage(25)
 # --------------------
 
 def convert_fraction(user_input):
